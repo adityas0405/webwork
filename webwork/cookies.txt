@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+webwork.ucd.ie	TRUE	/webwork2	FALSE	1999999999	WeBWorKCourseAuthen.Math-10140-Ghergu	%09
+webwork.ucd.ie	TRUE	/webwork2	FALSE	1999999999	WeBWorKCourseAuthen.A-WeBWorK-Introduction	%09
+webwork.ucd.ie	TRUE	/webwork2	FALSE	1999999999	WeBWorKCourseAuthen.Math-10220-Greferath	%09
+webwork.ucd.ie	TRUE	/webwork2	FALSE	1999999999	WeBWorKCourseAuthen.Math-10240-Dobbs	%09
+webwork.ucd.ie	TRUE	/webwork2	FALSE	1999999999	WeBWorKCourseAuthen.Math-10290-Smigoc	%09
+webwork.ucd.ie	TRUE	/webwork2	FALSE	1999999999	WeBWorKCourseAuthen.Math-10260-Greferath	%09
+webwork.ucd.ie	TRUE	/webwork2	FALSE	1999999999	WeBWorKCourseAuthen.Math-10320-Levene	%09
+webwork.ucd.ie	TRUE	/webwork2	FALSE	1999999999	WeBWorKCourseAuthen.Math-20320-Render	%09
+webwork.ucd.ie	TRUE	/webwork2	FALSE	1999999999	WeBWorKCourseAuthen.MSt-30070-Mellon	%09
+
